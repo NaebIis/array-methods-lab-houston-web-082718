@@ -1,4 +1,4 @@
-def using_include(array, element1)
+def using_include(array, element2)
 array.include?("wow")
 array.include?("Tardis")
 end
