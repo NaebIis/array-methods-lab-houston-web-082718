@@ -1,5 +1,4 @@
 def using_include(array, element1)
-
 array.include?("Tardis")
 end
 
